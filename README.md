@@ -1,3 +1,28 @@
-### Hi there 👋 My name is Filippo Maestri
+## 🚀 About Me
 
-I am a 31-year-old guy from Italy. I am a graduate of the hospitality institute(italian high school), and I have several years of experience in the restaurant and hospitality field. My greatest passions are traveling and learning new things. Combining the two, I have worked in London and Spain, where I also could learn English and Spanish at a high level. I have always liked computers, data and statistics to understand how the world is going. I studied on start2impact, where I had the opportunity to work with real projects and get feedback from established professionals in data science and data analysis. My goal is, through data, to make my contribution in shaping an increasingly informed and conscientious society. If you would like to get in touch with me, you can write me on LinkedIn: https://www.linkedin.com/in/filippo-maestri or by email: filippo.maestri91@gmail.com Check out my Start2impact page: https://talent.start2impact.it/profile/filippo-maestri
+Hello! I'm **Filippo Maestri**, a certified Cybersecurity Analyst with a strong foundation in data analysis. I leverage my analytical background to identify risks and design innovative solutions in digital environments.
+
+### 🛠️ Technical Skills
+
+*   **Programming:** Python
+*   **Operating Systems:** Linux
+*   **Scripting:** Bash
+*   **Networking:** Core concepts and configurations.
+*   **Containerization:** Docker
+*   **Data Analysis:** Experience in identifying trends, patterns and risks through data.
+*   **Security:** Focus on improving efficiency and strengthening digital security.
+
+### 💼 Experience
+
+My experience in data analysis has provided me with a highly analytical approach that I apply to identifying risks and designing innovative solutions in digital environments. I use my technical skills to automate processes and improve security.
+
+### 🎯 Current Focus
+
+I'm currently focused on deepening my knowledge in cybersecurity, learning new technologies, methodologies and keeping up with the latest trends in the field.
+
+### 🤝 Let's Connect
+
+I'm excited to collaborate on challenging projects, share ideas, and continue growing in this dynamic field. Feel free to reach out!
+
+*   **LinkedIn:** [https://www.linkedin.com/in/filippo-maestri]
+*   **Email:** [filippo.maestri91@gmail.com]
