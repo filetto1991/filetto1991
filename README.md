@@ -1,6 +1,6 @@
 ## 🚀 About Me
 
-# 👨‍💻 Filippo Maestri – Penetration Tester $ Cybersecurity Analyst
+# 👨‍💻 Filippo Maestri – Penetration Tester & Cybersecurity Analyst
 
 > **eWPTv2** • **eJPTv2** | Web & infra pentesting | Python & Bash automation | Trilingual 🇮🇹🇬🇧🇪🇸  
 > 📩 filippo.maestri91@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/filippo-maestri/)
