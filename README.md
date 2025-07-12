@@ -22,6 +22,6 @@ brute_forcer – fast HTTP login brute force utility
 
 I create reliable, efficient, educational tooling to help the InfoSec community grow and learn together. I believe in open collaboration—feedback, contributions, and discussions are always welcome!
 
-💬 Let’s connect on LinkedIn or drop me a line at filippo.maestri91@gmail.com
+💬 Let’s connect on LinkedIn or drop me an email:
 *   **LinkedIn:** [https://www.linkedin.com/in/filippo-maestri]
 *   **Email:** [filippo.maestri91@gmail.com]
