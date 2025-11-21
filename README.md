@@ -1,5 +1,5 @@
 ## 🚀 About Me
-I’m Filippo Maestri (Il Gatto), a **Cybersecurity Analyst & Penetration Tester** (eWPTv2, eJPTv2) dedicated to automating the hunt for critical vulnerabilities.
+I’m Filippo Maestri (Il Gatto), a **Penetration Tester & Cybersecurity Analyst** dedicated to automating the hunt for critical vulnerabilities.
 
 My focus is on bridging the gap between manual pentesting and automated scanning. I specialize in **API Security**, developing tools that go beyond simple signature matching to understand application logic.
 
