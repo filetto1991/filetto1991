@@ -1,27 +1,16 @@
 ## 🚀 About Me
+I’m Filippo Maestri (Il Gatto), a **Cybersecurity Analyst & Penetration Tester** (eWPTv2, eJPTv2) dedicated to automating the hunt for critical vulnerabilities.
 
-I’m Filippo Maestri (filetto1991) — a certified Cybersecurity Analyst and Penetration Tester with a passion for building open-source security tools.
+My focus is on bridging the gap between manual pentesting and automated scanning. I specialize in **API Security**, developing tools that go beyond simple signature matching to understand application logic.
 
-I hold certifications such as eWPTv2 and eJPTv2, and specialize in:
+### 🛠️ Featured Work
+*   🛡️ **[auth-bifrost](https://github.com/filetto1991/auth-bifrost)**: My latest project. An automated engine to detect **Broken Object Level Authorization (BOLA/IDOR)** using dual-context replay (Victim vs. Attacker) and heuristic response analysis.
+*   🔍 **Reconnaissance Suite**: Modular tools for efficient enum including `subdomain_scanner` and `web_content_discovery`.
+*   📊 **Anomaly Detection**: leveraging Python/Pandas for log analysis and threat hunting.
 
-⚙️ Web & infrastructure pentesting (Burp Suite, Nmap, SSRF, IDOR, JWT issues …)
+**Core Tech Stack:** Python (Asyncio, Requests), Docker, Linux, Bash.
 
-🧰 Tool development in Python (asyncio, pwntools, requests) and Bash scripting
+Always building, always learning. Check out my repositories and feel free to contribute!
 
-⚙️ Linux/Docker environments, container hardening, Kali/Parrot setup
-
-📊 Data analysis and anomaly detection with tools like Python/Pandas
-
-My GitHub features modular, high-quality projects including:
-
-subdomain_scanner – multi-record DNS subdomain enum
-
-web_content_discovery – async directory/file brute forcing
-
-brute_forcer – fast HTTP login brute force utility
-
-I create reliable, efficient, educational tooling to help the InfoSec community grow and learn together. I believe in open collaboration—feedback, contributions, and discussions are always welcome!
-
-💬 Let’s connect on LinkedIn or drop me an email:
-*   **LinkedIn:** [https://www.linkedin.com/in/filippo-maestri]
-*   **Email:** [filippo.maestri91@gmail.com]
+---
+💬 **Contact:** [LinkedIn](https://www.linkedin.com/in/filippo-maestri) | [Email](mailto:filippo.maestri91@gmail.com)
