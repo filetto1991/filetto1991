@@ -40,32 +40,12 @@ Building toward **Red Team** roles where I can design **Adversary Simulation** c
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=filetto1991&show_icons=true&theme=radical&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=filetto1991&layout=compact&theme=radical&langs_count=8" height="150" />
-</div>
-
----
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/filippo-maestri"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:filippo.maestri91@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
-
-## 🚀 About Me
-I’m Filippo Maestri (Il Gatto), a **Penetration Tester & Cybersecurity Analyst** dedicated to automating the hunt for critical vulnerabilities.
-
-My focus is on bridging the gap between manual pentesting and automated scanning. I specialize in **API Security**, developing tools that go beyond simple signature matching to understand application logic.
-
-### 🛠️ Featured Work
-*   🛡️ **[auth-bifrost](https://github.com/filetto1991/auth-bifrost)**: My latest project. An automated engine to detect **Broken Object Level Authorization (BOLA/IDOR)** using dual-context replay (Victim vs. Attacker) and heuristic response analysis.
-*   🔍 **Reconnaissance Suite**: Modular tools for efficient enum including `subdomain_scanner` and `web_content_discovery`.
-*   📊 **Anomaly Detection**: leveraging Python/Pandas for log analysis and threat hunting.
-
-**Core Tech Stack:** Python (Asyncio, Requests), Docker, Linux, Bash.
-
-Always building, always learning. Check out my repositories and feel free to contribute!
+![Snake animation](https://github.com/filetto1991/filetto1991/blob/output/github-contribution-grid-snake.svg)
 
 ---
 💬 **Contact:** [LinkedIn](https://www.linkedin.com/in/filippo-maestri) | [Email](mailto:filippo.maestri91@gmail.com)
