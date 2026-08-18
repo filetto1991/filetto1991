@@ -44,8 +44,3 @@ Building toward **Red Team** roles where I can design **Adversary Simulation** c
   <a href="https://www.linkedin.com/in/filippo-maestri"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:filippo.maestri91@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
-
-![Snake animation](https://github.com/filetto1991/filetto1991/blob/output/github-contribution-grid-snake.svg)
-
----
-💬 **Contact:** [LinkedIn](https://www.linkedin.com/in/filippo-maestri) | [Email](mailto:filippo.maestri91@gmail.com)
